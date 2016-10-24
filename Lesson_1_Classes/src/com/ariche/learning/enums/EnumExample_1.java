@@ -1,7 +1,7 @@
 package com.ariche.learning.enums;
 
 /***
- * 
+ *  Java cetification
  *  Enum
  * 
  * 		1- Enum != Enumuration, Enum is data type ,Enumeration is an interface to iterate over collection. 
